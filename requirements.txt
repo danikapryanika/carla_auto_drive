@@ -1,0 +1,8 @@
+torch>=1.12
+torchvision>=0.13
+numpy
+pandas
+opencv-python
+tqdm
+tensorboard
+matplotlib
