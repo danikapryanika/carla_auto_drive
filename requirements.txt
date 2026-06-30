@@ -6,3 +6,4 @@ opencv-python
 tqdm
 tensorboard
 matplotlib
+carla
